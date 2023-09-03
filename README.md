@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lbikashofficial130](https://github.com/Lbikashofficial130)
 
-- 💬 Ask me about **I am a Future Software Engineer. Currently working with NDM Company PVT LTD which is at Banepa Nepal and Studying BCA at Aadim National College**
+- 💬 Ask me about **I am a Future Software Engineer. Currently working with NDM Company PVT LTD which is in Banepa Nepal and Studying BCA at Aadim National College**
 
 - 📫 How to reach me **Khanalbk18@gmail.com**
 
