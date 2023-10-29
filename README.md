@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java, PHP, HTML, CSS, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lbikashofficial130](https://github.com/Lbikashofficial130)
+- 👨‍💻 All of my projects are available at [https://github.com/bikashkhanal130](https://github.com/bikashkhanal130)
 
 - 💬 Ask me about **I am a Future Software Engineer. Currently working with NDM Company PVT LTD which is in Banepa Nepal and Studying BCA at Aadim National College**
 
