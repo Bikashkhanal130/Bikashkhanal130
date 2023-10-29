@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bikash Khanal</h1>
 <h3 align="center">Future Software Engineer from Kathmandu Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lbikashofficial130&label=Profile%20views&color=0e75b6&style=flat" alt="lbikashofficial130" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bikashkhanal130&label=Profile%20views&color=0e75b6&style=flat" alt="Bikashkhanal130" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lbikashofficial130" alt="lbikashofficial130" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bikashkhanal130" target="blank"><img src="https://img.shields.io/twitter/follow/bikashkhanal130?logo=twitter&style=for-the-badge" alt="bikashkhanal130" /></a> </p>
 
-- 🔭 I’m currently working on [Atm Machine Project Linked with Java Swing Command Base](https://github.com/Lbikashofficial130/atmfinal)
+- 🔭 I’m currently working on [Atm Machine Project Linked with Java Swing Command Base](https://github.com/Bikashkhanal130/atmfinal)
 
 - 🌱 I’m currently learning **Java, PHP, HTML, CSS, Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bikashkhanal130](https://github.com/bikashkhanal130)
 
-- 💬 Ask me about **I am a Future Software Engineer. Currently working with NDM Company PVT LTD which is in Banepa Nepal and Studying BCA at Aadim National College**
+- 💬 Ask me about **I am Currently working with NDM Company PVT LTD which is in Banepa Nepal and Studying Bachelor in Computer Application which is also known as BCA at Aadim National College**
 
 - 📫 How to reach me **Khanalbk18@gmail.com**
 
@@ -31,8 +31,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/bikashkhanal130"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/bikashkhanal130" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbikashofficial130&show_icons=true&locale=en&layout=compact" alt="lbikashofficial130" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bikashkhanal130&show_icons=true&locale=en&layout=compact" alt="Bikashkhanal130" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lbikashofficial130&show_icons=true&locale=en" alt="lbikashofficial130" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bikashkhanal130&show_icons=true&locale=en" alt="Bikashkhanal130" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lbikashofficial130&" alt="lbikashofficial130" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bikashkhanal130&" alt="Bikashkhanal130" /></p>
