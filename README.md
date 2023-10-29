@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bikash Khanal</h1>
 <h3 align="center"> From Kathmandu Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lbikashofficial130" alt="lbikashofficial130" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bikashkhanal130" alt="Bikashkhanal130" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bikashkhanal130" target="blank"><img src="https://img.shields.io/twitter/follow/bikashkhanal130?logo=twitter&style=for-the-badge" alt="bikashkhanal130" /></a> </p>
 
