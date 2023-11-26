@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bikashkhanal130](https://github.com/bikashkhanal130)
 
-- 💬 Ask me about **I am Currently working with NDM Company PVT LTD which is in Banepa Nepal and Studying Bachelor in Computer Application which is also known as BCA at Aadim National College**
+- 💬 Ask me about **I am Currently working with NDM Company PVT LTD which is in Banepa Nepal, CEO at Bikash Digital Marketing & Online Services which is located in Bauddha Nayabasti, Kathmandu, Nepal and Studying Bachelor in Computer Application which is also known as BCA at Aadim National College**
 
 - 📫 How to reach me **Khanalbk18@gmail.com**
 
