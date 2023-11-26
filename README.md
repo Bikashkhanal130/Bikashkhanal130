@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Atm Machine Project Linked with Java Swing Command Base](https://github.com/Bikashkhanal130/atmfinal)
 
-- 🌱 I’m currently learning **Java, PHP, HTML, CSS, Bootstrap**
+- 🌱 I’m currently learning **Javascript, PHP, Mern, Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bikashkhanal130](https://github.com/bikashkhanal130)
 
