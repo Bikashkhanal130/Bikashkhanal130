@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/bikashkhanal130" target="blank"><img src="https://img.shields.io/twitter/follow/bikashkhanal130?logo=twitter&style=for-the-badge" alt="bikashkhanal130" /></a> </p>
 
-- 🔭 I’m currently working on [The Secret Project ](https://github.com/Bikashkhanal130/atmfinal)
+- 🔭 I’m currently working on [Crime Reporting System](https://github.com/Bikashkhanal130/https---github.com-Bikashkhanal130-CRS), Intern in CODSOFT
 
-- 🌱 I’m currently learning **Javascript, PHP**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bikashkhanal130](https://github.com/bikashkhanal130)
 
