@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/bikashkhanal130" target="blank"><img src="https://img.shields.io/twitter/follow/bikashkhanal130?logo=twitter&style=for-the-badge" alt="bikashkhanal130" /></a> </p>
 
-- 🔭 I’m currently working on [Crime Reporting System](https://github.com/Bikashkhanal130/https---github.com-Bikashkhanal130-CRS), Intern in CODSOFT My project link is:[(https://github.com/Bikashkhanal130/CODSOFT)]
+- 🔭 I Completed my Project Crime Reporting System using core PHP in my repository.
+- Currently working in Project Ndmkeys.com collaborating with NDM Company Private Limited. 
 
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bikashkhanal130](https://github.com/bikashkhanal130)
 
-- 💬 Ask me about **I am Currently working with NDM Company PVT LTD which is in Banepa Nepal, CEO at Bikash Digital Marketing & Online Services which is located in Bauddha Nayabasti, Kathmandu, Nepal and Studying Bachelor in Computer Application which is also known as BCA at Aadim National College**
+- 💬 Ask me about **I am currently working with NDM Company PVT LTD which is in Banepa Nepal, CEO and Chairperson of Bikash Digital Marketing & Online Services which is located in Bauddha Nayabasti, Kathmandu, Nepal, and Studying Bachelor in Computer Application which is also known as BCA at Aadim National College**
 
 - 📫 How to reach me **Khanalbk18@gmail.com**
 
