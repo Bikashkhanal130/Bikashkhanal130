@@ -8,12 +8,14 @@
 -  I Completed my Project Crime Reporting System using core PHP in my repository.
 -  Currently working in Project Ndmkeys.com collaborating with NDM Company Private Limited.
 -  Currently working in Project Doctors Appointment System.
+-  Currently working in Chrome Extension Browser Social Media Content Filter
+-  Currently working in project AI Detection Website for frauds as well as scam, proxy, copied websites
+-  Currently Creating my Mobile Application Nepchat using React Native with the help of Database MongoDb
 
-- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bikashkhanal130](https://github.com/bikashkhanal130)
 
-- 💬 Ask me about **I am currently working with NDM Company PVT LTD which is in Banepa Nepal, CEO and Chairperson of Bikash Digital Marketing & Online Services which is located in Bauddha Nayabasti, Kathmandu, Nepal, and Studying Bachelor in Computer Application which is also known as BCA at Aadim National College**
+- 💬 Ask me about **I am currently working with NDM Company PVT LTD which is in Banepa Nepal and Studying Bachelor in Computer Application which is also known as BCA at Aadim National College**
 
 - 📫 How to reach me **Khanalbk18@gmail.com**
 
