@@ -24,7 +24,7 @@
 <a href="https://twitter.com/bikashkhanal130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bikashkhanal130" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bikashkhanal130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikashkhanal130" height="30" width="40" /></a>
 <a href="https://fb.com/bikash khanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bikash khanal" height="30" width="40" /></a>
-<a href="https://instagram.com/beekashkhanal130li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beekashkhanal130li" height="30" width="40" /></a>
+<a href="https://instagram.com/bikashkhanal130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bikashkhanal130" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
