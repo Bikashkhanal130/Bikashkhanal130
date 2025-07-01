@@ -32,4 +32,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://[www.buymeacoffee.com/bikashkhanal130](https://www.buymeacoffee.com/bikashkhanal130
-)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/bikashkhanal130" /></a></p><br><br>
+)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://coff.ee/bikashkhanal130" /></a></p><br><br>
